@@ -1,1 +1,1 @@
-# stock-and-Inventory
+# PrintReceipt
